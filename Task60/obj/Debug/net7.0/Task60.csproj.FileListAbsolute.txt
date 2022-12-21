@@ -1,0 +1,15 @@
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task60/obj/Debug/net7.0/Task60.csproj.AssemblyReference.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task60/obj/Debug/net7.0/Task60.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task60/obj/Debug/net7.0/Task60.AssemblyInfoInputs.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task60/obj/Debug/net7.0/Task60.AssemblyInfo.cs
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task60/obj/Debug/net7.0/Task60.csproj.CoreCompileInputs.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task60/bin/Debug/net7.0/Task60
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task60/bin/Debug/net7.0/Task60.deps.json
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task60/bin/Debug/net7.0/Task60.runtimeconfig.json
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task60/bin/Debug/net7.0/Task60.dll
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task60/bin/Debug/net7.0/Task60.pdb
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task60/obj/Debug/net7.0/Task60.dll
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task60/obj/Debug/net7.0/refint/Task60.dll
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task60/obj/Debug/net7.0/Task60.pdb
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task60/obj/Debug/net7.0/Task60.genruntimeconfig.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task60/obj/Debug/net7.0/ref/Task60.dll

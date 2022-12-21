@@ -1,0 +1,15 @@
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task54/bin/Debug/net7.0/Task54
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task54/bin/Debug/net7.0/Task54.deps.json
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task54/bin/Debug/net7.0/Task54.runtimeconfig.json
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task54/bin/Debug/net7.0/Task54.dll
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task54/bin/Debug/net7.0/Task54.pdb
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task54/obj/Debug/net7.0/Task54.csproj.AssemblyReference.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task54/obj/Debug/net7.0/Task54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task54/obj/Debug/net7.0/Task54.AssemblyInfoInputs.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task54/obj/Debug/net7.0/Task54.AssemblyInfo.cs
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task54/obj/Debug/net7.0/Task54.csproj.CoreCompileInputs.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task54/obj/Debug/net7.0/Task54.dll
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task54/obj/Debug/net7.0/refint/Task54.dll
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task54/obj/Debug/net7.0/Task54.pdb
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task54/obj/Debug/net7.0/Task54.genruntimeconfig.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home8/Task54/obj/Debug/net7.0/ref/Task54.dll
